@@ -1,2 +1,2 @@
 # IP.LOOKUP
-lookup ips
+lookup ips. I reccomend downloading as a zip
